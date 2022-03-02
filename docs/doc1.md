@@ -6,39 +6,24 @@ sidebar_label: CV Raquel
 
 # Raquel Afonso
 
-![cvimage](\img\cvimage.png)
-
 🌐 LEIRIA, 2410-105, PORTUGAL   
 
-## PERSONAL INFO
-
-
-###### ✉ E-mail
-raquel.afonso.360@gmail.com
-
-###### ⏲ Date / Place of birth
-  10/10/1996 Guarda
-
-###### 🏳 Nationality
-  Portuguese
-
-###### ✆ Phone Number
-  969938605
-
 ## EMPLOYMENT HISTORY
-
-**Salesman at Lidl Portugal, Leiria**
-*September 2015*
-- Functioned with a healthy competitive spirit and a drive to achieve results.
-- Worked well independently and on a team to solve problems.
-- Served as a friendly, hardworking, and punctual employee.
-- Organized and prioritized work to complete assignments in a timely, efficient manner.
 
 **DevOps Engineer at Outcloud Portugal, Lisboa**
 *January 2022*
 - Worked with IT automation system
 - Learned  virtualization and containerization with Docker.
 - Learned software provisioning, configuration management, and application-deployment with Ansible.
+
+**Salesman at Lidl Portugal, Leiria**
+*September 2015-December*
+- Functioned with a healthy competitive spirit and a drive to achieve results.
+- Worked well independently and on a team to solve problems.
+- Served as a friendly, hardworking, and punctual employee.
+- Organized and prioritized work to complete assignments in a timely, efficient manner.
+
+
 
 ## EDUCATION
 

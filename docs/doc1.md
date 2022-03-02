@@ -15,7 +15,7 @@ sidebar_label: CV Raquel
 - Learned software provisioning, configuration management, and application-deployment with Ansible.
 
 **Salesman at Lidl Portugal, Leiria**
-*September 2015-December*
+*September 2015-December 20-21*
 - Functioned with a healthy competitive spirit and a drive to achieve results.
 - Worked well independently and on a team to solve problems.
 - Served as a friendly, hardworking, and punctual employee.

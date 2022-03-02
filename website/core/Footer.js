@@ -35,13 +35,6 @@ class Footer extends React.Component {
           </div>
         </section>
 
-        <a
-          href="https://opensource.facebook.com/"
-          target="_blank"
-          rel="noreferrer noopener"
-          className="fbOpenSource">
-          
-        </a>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );

@@ -6,8 +6,6 @@ sidebar_label: CV Raquel
 
 # Raquel Afonso
 
-🌐 LEIRIA, 2410-105, PORTUGAL   
-
 ## EMPLOYMENT HISTORY
 
 **DevOps Engineer at Outcloud Portugal, Lisboa**

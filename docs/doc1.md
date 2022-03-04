@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: CV
-sidebar_label: CV Raquel
+sidebar_label: CV Raquel LOL
 ---
 
 # Raquel Afonso
